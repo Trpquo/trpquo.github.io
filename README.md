@@ -4,7 +4,7 @@ Trpimir Jeronim Ježić is a experienced graphic and web designer, currently emp
 
 The reason for this site's existence is my great interest in the multidisciplinary field of non-existent _General Graphic Design Theory_ and possibilities of it's implementation in shaping technical approaces and technological solutions to everyday challenges in visual communication.  
 
-###General Graphic Design Theory
+### General Graphic Design Theory
 
 **G^2DT** is the theory that would combine theories, findings and consensuses from a broad arrangement of fields such as:
 - general layout and composition principles arrived from grapgis/UX/type design and art practices and music theory
@@ -31,6 +31,6 @@ on which the technical and technological advancements in visual communications c
 ```markdown
 ```
 
-###Project description
+### Project description
 
 _coming soon..._
