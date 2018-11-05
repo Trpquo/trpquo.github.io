@@ -36,7 +36,7 @@ First step of the project is going to be a path to discovery of a specter of pro
 - [Patternrenrettap](https://github.com/Trpquo/G2DT-Patternerenrettap) : pattern making app
 - Piclid : vector based geometry drawing and fitting tool
 - !MS Paint : pixel drawing tool
-- Lava : variable fonts editor
+- Lava : variable fonts editor (probably done in Python because of [fonttools](https://github.com/fonttools/fonttools))
 - [Simple TextBox](https://github.com/Trpquo/G2DT-Simple_textBox) : text layout and editing tool based on common text-box mechanisms
 - PhotoBooth : pixel-graphic's filter and CV playground
 
