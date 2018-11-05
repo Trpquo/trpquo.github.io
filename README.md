@@ -30,7 +30,7 @@ on which the technical and technological advancements in visual communications c
 
 ### Project description
 
-First step of the project is going to be a path to discovery of a specter of programmer's approaches and algorithms that have allready been discovered for different graphical and CS challenges, and trouhgh creating basic single-function apps with the appropriate GUI design, that would cover one field at a time, try to grasp them, systemise them and, as a programming _noob_, try to comprehend OOP and functional approaches to building graphical apps.
+First step of the project is going to be a path to discovery of a specter of programmer's approaches and algorithms that have allready been published for different graphical and CS challenges, and through creating basic _single_-function apps with the appropriate GUI designs, try to grasp them, systemise them and, as a programming _noob_, try to comprehend OOP and functional approaches to building graphical apps.
 
 #### Some of the proto-apps will definetively be:
 - [Patternrenrettap](https://github.com/Trpquo/G2DT-Patternerenrettap) : pattern making app
