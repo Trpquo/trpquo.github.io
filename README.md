@@ -26,11 +26,18 @@ in an attempt to find some basic rules that govern our visual communications:
 - descriptions of mechanisms that each _stylistic_ approach has choosen to take accompanied with justifications for it
 - connections of nodes in each _stylistic_ mechanism to the basic perceptual _physics_ artifacts in the percieved world.
 
-on which the technical and technological advancements in visual communications could be realistically based.
-
-```markdown
-```
+on which the technical and technological advancements in visual communications could be realistically and practically based.
 
 ### Project description
 
-_coming soon..._
+First step of the project is going to be a path to discovery of a specter of programmer's approaches and algorithms that have allready been discovered for different graphical and CS challenges, and trouhgh creating basic single-function apps with the appropriate GUI design, that would cover one field at a time, try to grasp them, systemise them and, as a programming _noob_, try to comprehend OOP and functional approaches to building graphical apps.
+
+#### Some of the proto-apps will definetively be:
+- [Patternrenrettap](https://github.com/Trpquo/G2DT-Patternerenrettap) : pattern making app
+- Piclid : vector based geometry drawing and fitting tool
+- !MS Paint : pixel drawing tool
+- Lava : variable fonts editor
+- [Simple TextBox](https://github.com/Trpquo/G2DT-Simple_textBox) : text layout and editing tool based on common text-box mechanisms
+- PhotoBooth : pixel-graphic's filter and CV playground
+
+_more coming soon..._
