@@ -32,7 +32,7 @@ on which the technical and technological advancements in visual communications c
 
 First step of the project is going to be a path to discovery of a specter of programmer's approaches and algorithms that have allready been published for different graphical and CS challenges, and through creating basic _single_-function apps with the appropriate GUI designs, try to grasp them, systemise them and, as a programming _noob_, try to comprehend OOP and functional approaches to building graphical apps.
 
-#### Some of the proto-apps will definetively be (please ignore the silly working names):
+#### Some of the _proto-apps_ will definetively be (please ignore the silly working names):
 - [Patternrenrettap](https://github.com/Trpquo/G2DT-Patternerenrettap) : pattern making app
 - Gent Li - interactive generative art creator 
 - Piclid : vector based geometry drawing and fitting tool
@@ -42,8 +42,8 @@ First step of the project is going to be a path to discovery of a specter of pro
 - SpaceBooth : pixel-graphic's filter and CV playground
 - Agora - questioneer creator app for filling the database on psycho-physical and UX issues on which the final app's design guidance tools and UI could be made dependant on
 
-These _proto-apps_ with as detailed documentation as reasonably possible, describing the thought process, design pattern framework, reasoning behind algorithms, approaches to GUI-s with listings of relevant design principles and bibliographical references entangled with each step of development. Documentation will be spread across comments in the working files, formated in readeble text on each sub-projects wiki pages and a summary of accomplishements and pending problems on each repository's web page.
+These _proto-apps_ will be accompanied with as detailed documentation as reasonably possible, describing the thought process, design pattern framework, reasoning behind algorithms, approaches to GUI-s with listings of relevant design principles and bibliographical references entangled with each step of development. Documentation will be spread across comments in the working files, formated in readeble text on each sub-projects wiki pages and a summary of accomplishements and pending problems on each repository's web page.
 
-**End goal** is integrating all sub-project applications into one practical and design oriented graphic editor. Graphic design software that can help understanding and fascilitate the design process, not just be an inavoidable obstacle to fight with, in thougtfull creation of the visual communication stuffs. 
+**End goal** is integrating all sub-project applications into one practical and design oriented graphic editor. Graphic design software that can help understanding of design choices and fascilitate the design process, not just be an inavoidable obstacle to fight with, in thougtfull creation of the visual communication stuffs. 
 
 _more coming soon..._
