@@ -40,7 +40,7 @@ First step of the project is going to be a path to discovery of a specter of pro
 - Lava : variable fonts editor (probably done in Python because of [fonttools](https://github.com/fonttools/fonttools))
 - [Simple TextBox](https://github.com/Trpquo/G2DT-Simple_textBox) : text layout and editing tool based on common text-box mechanisms
 - SpaceBooth : pixel-graphic's filter and CV playground
-- Agora - questioneer creator app for filling the database on psycho-physical and UX issues on which the final app's design guidance tools and UI could be made dependant
+- Agora - questioneer creator app for filling the database on psycho-physical and UX issues on which the final app's design guidance tools and UI could be made dependant on
 
 These _proto-apps_ with as detailed documentation as reasonably possible, describing the thought process, design pattern framework, reasoning behind algorithms, approaches to GUI-s with listings of relevant design principles and bibliographical references entangled with each step of development. Documentation will be spread across comments in the working files, formated in readeble text on each sub-projects wiki pages and a summary of accomplishements and pending problems on each repository's web page.
 
