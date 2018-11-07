@@ -44,6 +44,6 @@ First step of the project is going to be a path to discovery of a specter of pro
 
 These _proto-apps_ will be accompanied with as detailed documentation as reasonably possible, describing the thought process, design pattern framework, reasoning behind algorithms, approaches to GUI-s with listings of relevant design principles and bibliographical references entangled with each step of development. Documentation will be spread across comments in the working files, formated in readeble text on each sub-projects wiki pages and a summary of accomplishements and pending problems on each repository's web page.
 
-**End goal** is integrating all sub-project applications into one practical and design oriented graphic editor. Graphic design software that can help understanding of design choices and fascilitate the design process, not just be an inavoidable obstacle to fight with, in thougtfull creation of the visual communication stuffs. 
+**End goal** is integrating all sub-project applications into one practical and design oriented graphic editor: Graphic design software that can help understanding of design choices and fascilitate the design process, not just be an inavoidable obstacle to fight with, in thougtfull creation of the visual communication stuffs. 
 
 _more coming soon..._
