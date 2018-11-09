@@ -32,7 +32,9 @@ on which the technical and technological advancements in visual communications c
 
 First step of the project is going to be a path to discovery of a specter of programmer's approaches and algorithms that have allready been published for different graphical and CS challenges, and through creating basic _single_-function apps with the appropriate GUI designs, try to grasp them, systemise them and, as a programming _noob_, try to comprehend OOP and functional approaches to building graphical apps.
 
-#### Some of the _proto-apps_ will definetively be (please ignore the silly working names):
+##### Some of the _proto-apps_ will definetively be:
+ (please ignore the silly working names)
+ 
 - [Patternrenrettap](https://github.com/Trpquo/G2DT-Patternerenrettap) : pattern making app
 - Gent Li - interactive generative art creator 
 - Piclid : vector based geometry drawing and fitting tool
