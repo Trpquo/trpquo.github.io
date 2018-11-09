@@ -36,10 +36,12 @@ First step of the project is going to be a path to discovery of a specter of pro
 - [Patternrenrettap](https://github.com/Trpquo/G2DT-Patternerenrettap) : pattern making app
 - Gent Li - interactive generative art creator 
 - Piclid : vector based geometry drawing and fitting tool
-- !MS Paint : pixel drawing tool
-- Lava : variable fonts editor (probably done in Python because of [fonttools](https://github.com/fonttools/fonttools))
-- [Simple TextBox](https://github.com/Trpquo/G2DT-Simple_textBox) : text layout and editing tool based on common text-box mechanisms
+- ThoughtFlattener - tool for data visualisation and designing interactive infographics
+- !MS Paint : pixel based drawing tool
 - SpaceBooth : pixel-graphic's filter and CV playground
+- Black Art/Lava: variable fonts editor (probably done in Python because of [fonttools](https://github.com/fonttools/fonttools))
+- [Simple TextBox](https://github.com/Trpquo/G2DT-Simple_textBox) : text layout and editing tool based on common text-box mechanisms
+- BookBinder - multipage layout tool
 - Agora - questioneer creator app for filling the database on psycho-physical and UX issues on which the final app's design guidance tools and UI could be made dependant on
 
 These _proto-apps_ will be accompanied with as detailed documentation as reasonably possible, describing the thought process, design pattern framework, reasoning behind algorithms, approaches to GUI-s with listings of relevant design principles and bibliographical references entangled with each step of development. Documentation will be spread across comments in the working files, formated in readeble text on each sub-projects wiki pages and a summary of accomplishements and pending problems on each repository's web page.
